@@ -37,6 +37,7 @@ The lab covers:
 1 × Client Machine (Windows 10/11)
 
 ### 🔹 Network Design
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-1.png)
 Component	Configuration
 - DC Internal IP	172.16.0.1
 - Subnet Mask	255.255.255.0
@@ -52,6 +53,8 @@ Two NICs were configured on the Domain Controller:
 
 ## 🏗️ 1. Active Directory Setup
 
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-2.png)
+
 - Installed Active Directory Domain Services (AD DS)
 
 - Promoted server to Domain Controller
@@ -66,6 +69,8 @@ Two NICs were configured on the Domain Controller:
 
 ## 👥 2. Bulk User Creation (PowerShell Automation)
 
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-2.png)
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-3.png)
 - Created names.txt containing multiple usernames
 
 - Developed PowerShell script using New-ADUser
@@ -77,6 +82,9 @@ Two NICs were configured on the Domain Controller:
 This demonstrates automation and administrative efficiency in AD environments.
 
 ## 🛡️ 3. Group Policy Implementation (GPO)
+
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-4.png)
+
 ### 🔐 Password Policy
 
 - Minimum password length: 7 characters
@@ -113,6 +121,8 @@ Tested with weak password rejection
 
 ## 📂 4. File Services & Network Sharing
 ### 🔹 Shared Folder Configuration
+
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-5.png)
 
 - Created SHARED folder
 
@@ -170,6 +180,8 @@ Implemented real-world access control scenarios:
 - Verified restriction functionality
 
 ## 👁️ 7. Access-Based Enumeration (ABE)
+
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-6.png)
 
 - Enabled ABE on shared folders
 
