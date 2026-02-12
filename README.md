@@ -69,7 +69,7 @@ Two NICs were configured on the Domain Controller:
 
 ## 👥 2. Bulk User Creation (PowerShell Automation)
 
-![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-2.png)
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-7.png)
 ![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-3.png)
 - Created names.txt containing multiple usernames
 
@@ -165,6 +165,9 @@ Implemented real-world access control scenarios:
 - Senior IT → Exclusive access to Licenses subfolder
 
 ## 📊 6. File Server Resource Manager (FSRM)
+
+![image](https://github.com/KESAVA-0725/Enterprise-Active-Directory-Home-Lab/blob/main/images/pic-8.png)
+
 ### 📏 Quota Management
 
 - Applied storage limit to SHARED folder
